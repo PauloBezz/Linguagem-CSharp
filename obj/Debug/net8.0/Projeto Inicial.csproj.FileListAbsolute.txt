@@ -1,0 +1,34 @@
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\bin\Debug\net8.0\appsettings.json
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\bin\Debug\net8.0\Projeto Inicial.staticwebassets.endpoints.json
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\bin\Debug\net8.0\Projeto Inicial.exe
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\bin\Debug\net8.0\Projeto Inicial.deps.json
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\bin\Debug\net8.0\Projeto Inicial.runtimeconfig.json
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\bin\Debug\net8.0\Projeto Inicial.dll
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\bin\Debug\net8.0\Projeto Inicial.pdb
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto Inicial.csproj.AssemblyReference.cache
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto Inicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto Inicial.AssemblyInfoInputs.cache
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto Inicial.AssemblyInfo.cs
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto Inicial.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto Inicial.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto Inicial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\scopedcss\bundle\Projeto Inicial.styles.css
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto .26ED94E8.Up2Date
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto Inicial.dll
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\refint\Projeto Inicial.dll
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto Inicial.pdb
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto Inicial.genruntimeconfig.cache
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\ref\Projeto Inicial.dll
