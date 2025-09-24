@@ -32,3 +32,4 @@ C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\refint\Projeto Ini
 C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto Inicial.pdb
 C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto Inicial.genruntimeconfig.cache
 C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\ref\Projeto Inicial.dll
+C:\Users\pauli\Desktop\Charp\Projeto Inicial\obj\Debug\net8.0\Projeto Inicial.sourcelink.json
